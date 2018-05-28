@@ -1,0 +1,6 @@
+@include('partials.header')
+@include('partials.about')
+@include('partials.resume')
+@include('partials.portfolio')
+@include('partials.contact')
+@include('partials.footer')
