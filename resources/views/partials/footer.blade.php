@@ -9,8 +9,9 @@
 
 </div>
 <!-- /Page -->
-<script src='https://www.google.com/recaptcha/api.js'></script>
+
 <script src="{{ mix('js/app.js') }}" type="text/javascript"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
 
 </body>
 

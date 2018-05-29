@@ -32,7 +32,7 @@
             <div class="block-title">
                 <h3>Contact Form</h3>
             </div>
-            <form id="contact-form" method="post" action="contact_form/contact_form.php">
+            <form id="contact-form" method="post" action="/contact.php">
                 {{ csrf_field() }}
                 <div class="messages"></div>
 
