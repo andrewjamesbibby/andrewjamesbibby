@@ -19,7 +19,7 @@ mix.scripts([
     'resources/assets/js/bootstrap.min.js',
     'resources/assets/js/page-transition.js',
     'resources/assets/js/imagesloaded.pkgd.min.js',
-    'resources/assets/js/validator.js',
+    'resources/assets/js/jquery-validation.min.js',
     'resources/assets/js/jquery.shuffle.min.js',
     'resources/assets/js/masonry.pkgd.min.js',
     'resources/assets/js/owl.carousel.min.js',

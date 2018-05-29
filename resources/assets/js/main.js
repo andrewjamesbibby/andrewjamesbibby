@@ -109,29 +109,39 @@
         }
     }
 
-    // Contact form validator
-    $(function () {
+    // Contact form validation
+    $('#contact-form').validate({
 
-        $('#contact-form').validator();
+        rules : {
+            name : "required",
+            email : "required",
+            message : "required"
+        },
+        errorPlacement: function(error,element) {
+            $(element).parent().addClass('error');
+        },
+        unhighlight: function(element) {
+            $(element).removeClass("error");
+        },
+        submitHandler: function(form){
 
-        $('#contact-form').on('submit', function (e) {
-            if (!e.isDefaultPrevented()) {
-
-                $.ajax({
-                    type: "POST",
-                    url: '/contact',
-                    data: $(this).serialize(),
-                    success: function (data)
-                    {
-                        $('#contact-form').slideUp();
-                        $('#contact-form').closest('.subpage-block').append("<p><strong>Thanks! I'll be in touch soon.</strong></p>");
-                    }
-                });
+            if(grecaptcha.getResponse() == ''){
+                alert('Please confirm you are not a robot!');
                 return false;
             }
-        });
+
+            $.ajax({
+                type: "POST",
+                url: '/contact',
+                data: $(form).serialize(),
+                success: function (data)
+                {
+                    $('#contact-form').slideUp();
+                    $('#contact-form').closest('.subpage-block').append("<p><strong>Thanks! I'll be in touch soon.</strong></p>");
+                }
+            });
+        }
     });
-    // /Contact form validator
 
     // Portfolio subpage filters
     function portfolio_init() {
