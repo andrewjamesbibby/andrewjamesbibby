@@ -7,32 +7,16 @@
         </div>
 
         <div class="portfolio-title">
-            <h1>Portfolio Project</h1>
+            <h1>Prosport Coaching</h1>
         </div>
 
         <div class="row">
             <div class="col-sm-7 col-md-7 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="images/portfolio/portfolio_details/1_1.jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="images/portfolio/portfolio_details/1_2.jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="images/portfolio/portfolio_details/1_3.jpg" alt="">
+                        <img src="images/portfolio/portfolio_details/prosport/1.jpg" alt="prosport-1">
                     </div>
                 </div>
-
-                <div class="portfolio-page-video embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/97102654?autoplay=0"></iframe>
-                </div>
-
-                <!--
-                <div class="portfolio-page-image">
-                    <img src="images/portfolio/portfolio_details/1_1.jpg" alt="">
-                </div>
-                -->
 
                 <script type="text/javascript">
                     jQuery(document).ready(function($){
@@ -55,12 +39,20 @@
                     <h3>Description</h3>
                 </div>
                 <ul class="project-general-info">
-                    <li><p><i class="fa fa-user"></i> Alex Smith</p></li>
-                    <li><p><i class="fa fa-globe"></i> <a href="#" target="_blank">www.project-site.com</a></p></li>
-                    <li><p><i class="fa fa-calendar"></i> 25 december, 2016</p></li>
+                    <li><p><i class="fa fa-calendar"></i> 2016</p></li>
+                    <li><p><i class="fa fa-globe"></i> <a href="https://prosportcoaching.co.uk" target="_blank">prosportcoaching.co.uk</a></p></li>
                 </ul>
 
-                <p class="text-justify">Aliquam euismod aliquam massa, quis eleifend dui sodales vitae. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+                <p class="text-justify">Custom website built for Prosport Coaching.</p>
+
+                <ul class="project-general-info">
+                    <li><p>Custom wordpress theme</p></li>
+                    <li><p>PSD to HTML5</p></li>
+                    <li><p>Booking and Payment forms</p></li>
+                    <li><p>Paypal Integration</p></li>
+                    <li><p>Responsive across all devices</p></li>
+                    <li><p>Custom plugin development</p></li>
+                </ul>
                 <!-- /Project Description -->
 
                 <!-- Technology -->
@@ -73,21 +65,13 @@
                         <li><a>CSS3</a></li>
                         <li><a>jQuery</a></li>
                         <li><a>Ajax</a></li>
-                        <li><a>PHP5</a></li>
+                        <li><a>PHP</a></li>
+                        <li><a>Wordpress</a></li>
+                        <li><a>Bootstrap</a></li>
                     </ul>
                 </div>
                 <!-- /Technology -->
 
-                <!-- Share Buttons -->
-                <div class="btn-group share-buttons">
-                    <div class="block-title">
-                        <h3>Share</h3>
-                    </div>
-                    <a href="#" target="_blank" class="btn"><i class="fa fa-facebook"></i> </a>
-                    <a href="#" target="_blank" class="btn"><i class="fa fa-twitter"></i> </a>
-                    <a href="#" target="_blank" class="btn"><i class="fa fa-dribbble"></i> </a>
-                </div>
-                <!-- /Share Buttons -->
             </div>
         </div>
     </div>

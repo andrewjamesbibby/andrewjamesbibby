@@ -14,17 +14,9 @@
             <div class="col-sm-7 col-md-7 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="images/portfolio/portfolio_details/1_1.jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="images/portfolio/portfolio_details/1_2.jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="images/portfolio/portfolio_details/1_3.jpg" alt="">
+                        <img src="images/portfolio/portfolio_details/pavilion/1.jpg" alt="pavilion-1">
                     </div>
                 </div>
-
-
 
                 <script type="text/javascript">
                     jQuery(document).ready(function($){
@@ -50,7 +42,16 @@
                     <li><p><i class="fa fa-calendar"></i> 2016</p></li>
                 </ul>
 
-                <p class="text-justify">Custom event booking system built with PHP backend. etc</p>
+                <p class="text-justify">Custom event booking system built for Grindleton Pavilion.</p>
+
+                <ul class="project-general-info">
+                    <li><p>Bespoke event and invoicing system</p></li>
+                    <li><p>Email and SMS alerts</p></li>
+                    <li><p>Login and roles</p></li>
+                    <li><p>Google calendar API integration</p></li>
+                    <li><p>PDF invoice generation</p></li>
+                    <li><p>Private System</p></li>
+                </ul>
                 <!-- /Project Description -->
 
                 <!-- Technology -->

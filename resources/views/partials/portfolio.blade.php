@@ -27,7 +27,7 @@
             <!-- Portfolio Item 1 -->
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/pavilion">
-                    <img src="images/portfolio/1.jpg" alt="">
+                    <img src="images/portfolio/pavilion.jpg" alt="">
                     <div>
                         <h5 class="name">Pavilion System</h5>
                         <small>Media</small>
@@ -40,7 +40,7 @@
             <!-- Portfolio Item 2 -->
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/prosport">
-                    <img src="images/portfolio/1.jpg" alt="">
+                    <img src="images/portfolio/prosport.jpg" alt="">
                     <div>
                         <h5 class="name">Prosport Coaching</h5>
                         <small>Media</small>
@@ -49,46 +49,6 @@
                 </a>
             </figure>
             <!-- /Portfolio Item 2 -->
-
-            <!-- Portfolio Item 3 -->
-            <figure class="item" data-groups='["all", "projects"]'>
-                <a class="ajax-page-load" href="portfolio-1.html">
-                    <img src="images/portfolio/1.jpg" alt="">
-                    <div>
-                        <h5 class="name">Sentinel</h5>
-                        <small>Media</small>
-                        <i class="fa fa-file-text-o"></i>
-                    </div>
-                </a>
-            </figure>
-            <!-- /Portfolio Item 3 -->
-
-            <!-- Portfolio Item 4 -->
-            <figure class="item" data-groups='["all", "projects"]'>
-                <a class="ajax-page-load" href="portfolio-1.html">
-                    <img src="images/portfolio/1.jpg" alt="">
-                    <div>
-                        <h5 class="name">Valley Plumbing</h5>
-                        <small>Media</small>
-                        <i class="fa fa-file-text-o"></i>
-                    </div>
-                </a>
-            </figure>
-            <!-- /Portfolio Item 4 -->
-
-            <!-- Portfolio Item 5 -->
-            <figure class="item" data-groups='["all", "projects"]'>
-                <a class="ajax-page-load" href="portfolio-1.html">
-                    <img src="images/portfolio/1.jpg" alt="">
-                    <div>
-                        <h5 class="name">Sentinel API</h5>
-                        <small>Media</small>
-                        <i class="fa fa-file-text-o"></i>
-                    </div>
-                </a>
-            </figure>
-            <!-- /Portfolio Item 4 -->
-
 
         </div>
         <!-- /Portfolio Grid -->

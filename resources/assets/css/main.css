@@ -1135,6 +1135,8 @@ ul.social-links li:last-child a {
     position: relative;
     display: block;
     width: 100%;
+    border:solid 1px #efefef;
+    padding: 5px;
 }
 
 .portfolio-filters {

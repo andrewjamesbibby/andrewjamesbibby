@@ -33,5 +33,6 @@ mix.scripts([
 // Move Assets
 mix.copy('resources/assets/fonts', 'public/fonts');
 mix.copy('resources/assets/images', 'public/images');
+mix.copy('resources/assets/downloads', 'public/downloads');
 
 
