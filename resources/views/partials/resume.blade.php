@@ -112,6 +112,11 @@
                     <div class="skill-percentage skill-7"></div>
                 </div>
 
+                <h4>Creative Cloud</h4>
+                <div class="skill-container">
+                    <div class="skill-percentage skill-5"></div>
+                </div>
+
 
             </div>
         </div>
