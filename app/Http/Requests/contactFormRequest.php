@@ -47,7 +47,7 @@ class contactFormRequest extends FormRequest
 
         $response = $client->post('https://www.google.com/recaptcha/api/siteverify', [
                 'form_params' => [
-                    'secret'   => '6LdSalwUAAAAACeQqoBQvwbULwxABIDkmzicSy4f',
+                    'secret'   => config('google.secret'),
                     'response' => $this->{'g-recaptcha-response'},
                 ],
             ]);

@@ -35,4 +35,8 @@ return [
         'secret' => env('STRIPE_SECRET'),
     ],
 
+    'google' => [
+        'secret' => env('RECAPTCHA_SECRET')
+    ]
+
 ];
