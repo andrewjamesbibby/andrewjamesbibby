@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
+use App\Http\Requests\contactFormRequest;
 use Twitter;
 use Cache;
 
@@ -18,14 +18,9 @@ class HomeController extends Controller
         return view('welcome')->with('tweets', $tweets);
     }
 
-    public function contact(Request $request){
+    public function contact(ContactFormRequest $request){
 
-        $data = [];
-
-        $data['type'] = 'success';
-        $data['message'] = 'dkgjdlkfjgh';
-
-        return $data;
+        $request->send();
 
     }
 
