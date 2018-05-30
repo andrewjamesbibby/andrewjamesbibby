@@ -3,6 +3,7 @@
 namespace App\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
+use GuzzleHttp\Client;
 use App\Mail\enquiry;
 use Mail;
 
@@ -42,7 +43,18 @@ class contactFormRequest extends FormRequest
 
     private function verifyCaptcha(){
 
-        return true;
+        $client = new Client();
+
+        $response = $client->post('https://www.google.com/recaptcha/api/siteverify', [
+                'form_params' => [
+                    'secret'   => '6LdSalwUAAAAACeQqoBQvwbULwxABIDkmzicSy4f',
+                    'response' => $this->{'g-recaptcha-response'},
+                ],
+            ]);
+
+        $body = json_decode((string)$response->getBody());
+
+        return $body->success ? true : false;
 
     }
 
