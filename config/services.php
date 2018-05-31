@@ -36,7 +36,7 @@ return [
     ],
 
     'google' => [
-        'secret' => env('RECAPTCHA_SECRET')
+        'secret' => env('GOOGLE_SECRET')
     ]
 
 ];

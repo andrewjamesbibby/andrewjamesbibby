@@ -64,7 +64,7 @@
                         <div class="help-block with-errors"></div>
                     </div>
 
-                    <div class="g-recaptcha" data-sitekey="6Ld6blwUAAAAACqKb6b2Cu40J_xjFe95AcWDftK8"
+                    <div class="g-recaptcha" data-sitekey="6LcWblwUAAAAAJtrM7YeeVtR2vtPwlSHmU-sdcDK"
                          data-callback="correctCaptcha"></div>
 
                     <input type="submit" class="button btn-send" value="Send message">

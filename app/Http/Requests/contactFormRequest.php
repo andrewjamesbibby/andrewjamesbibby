@@ -38,6 +38,8 @@ class contactFormRequest extends FormRequest
     {
         if($this->verifyCaptcha()){
             Mail::to('andrewjamesbibby@hotmail.com')->send(new enquiry($this->name, $this->email, $this->message));
+        } else {
+            throw new \Exception('Google captcha not verified!');
         }
     }
 
@@ -47,14 +49,16 @@ class contactFormRequest extends FormRequest
 
         $response = $client->post('https://www.google.com/recaptcha/api/siteverify', [
                 'form_params' => [
-                    'secret'   => config('google.secret'),
+                    'secret'   => config('services.google.secret'),
                     'response' => $this->{'g-recaptcha-response'},
                 ],
             ]);
 
         $body = json_decode((string)$response->getBody());
 
-        return $body->success ? true : false;
+        if($body->success){
+            return true;
+        }
 
     }
 
