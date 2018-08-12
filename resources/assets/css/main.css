@@ -2081,3 +2081,11 @@ blockquote {
 .g-recaptcha {
     margin-bottom: 20px;
 }
+
+.external {
+     border: solid 1px #ffcd38;
+}
+
+.external:hover {
+    background-color: #f8f8f8;
+}

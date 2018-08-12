@@ -62,22 +62,22 @@
                 <h3>Skills</h3>
             </div>
             <div class="skills-info">
-                <h4>HML5 / CSS3</h4>
+                <h4>HML5 / CSS3 / JS</h4>
                 <div class="skill-container">
                     <div class="skill-percentage skill-9"></div>
                 </div>
 
-                <h4>JS / JQuery</h4>
+                <h4>Hosting, domains & deployment</h4>
                 <div class="skill-container">
                     <div class="skill-percentage skill-8"></div>
                 </div>
 
-                <h4>Database</h4>
+                <h4>Database Management</h4>
                 <div class="skill-container">
                     <div class="skill-percentage skill-8"></div>
                 </div>
 
-                <h4>Laravel</h4>
+                <h4>Laravel Framework</h4>
                 <div class="skill-container">
                     <div class="skill-percentage skill-9"></div>
                 </div>
@@ -102,31 +102,28 @@
                     <div class="skill-percentage skill-9"></div>
                 </div>
 
-                <h4>Hosting, Domains and Deployment</h4>
-                <div class="skill-container">
-                    <div class="skill-percentage skill-9"></div>
-                </div>
-
-                <h4>Automated testing</h4>
-                <div class="skill-container">
-                    <div class="skill-percentage skill-7"></div>
-                </div>
-
-                <h4>Creative Cloud</h4>
-                <div class="skill-container">
-                    <div class="skill-percentage skill-5"></div>
-                </div>
-
-
             </div>
         </div>
     </div>
+
     <div class="row">
-        <div class="col-sm-12 col-md-12">
+        <div class="col-sm-6 col-md-6 subpage-block">
+            <div class="block-title">
+                <h3>Health & Fitness</h3>
+            </div>
+            <iframe style="height:165px" frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/32352512/activity-summary/72fcaaba7298fa4aa814b71273350ae7c9047ac5'></iframe>
+        </div>
+
+        <div class="col-sm-6 col-md-6 subpage-block">
+            <div class="block-title">
+                <h3>Download</h3>
+            </div>
             <div class="download-cv-block">
                 <a class="button" target="_blank" href="downloads/andrew-james-bibby.pdf">Download CV</a>
             </div>
         </div>
+
     </div>
+
 </section>
 <!-- End Resume Subpage -->

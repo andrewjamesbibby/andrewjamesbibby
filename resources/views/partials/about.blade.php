@@ -15,7 +15,8 @@
             <div class="general-info">
                 <h3>I am a Developer @ <a href="https://www.yudu.com" target="_blank">YUDU</a></h3>
                 <p>Full-time developer working with a wide variety of web technologies to solve real world problems. I have gained many skills over the years in various positions at home and abroad. </p>
-                <p>Professional, decisive and determined with a continually improving skill set. I enjoy working in the challenging and ever-changing  environment of modern web technology. </p>
+                <p>Professional, decisive and determined with a continually improving skill set. I enjoy working in the challenging and ever-changing  environment of modern web technology. I enjoy running and the pursuit of self-mastery.</p>
+                <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/32352512/activity-summary/72fcaaba7298fa4aa814b71273350ae7c9047ac5'></iframe>
             </div>
         </div>
 
