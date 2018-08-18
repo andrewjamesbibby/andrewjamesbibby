@@ -37,6 +37,7 @@
 
 html {
     height: 100%;
+    -webkit-overflow-scrolling: touch;
 }
 
 body {
@@ -2042,6 +2043,10 @@ blockquote {
 
     .mobile-menu-hide {
         margin-top: -100%;
+    }
+
+    .site-nav:not(.mobile-menu-hide) .site-main-menu li {
+        margin-bottom: 10px;
     }
 
     .site-main-menu li {
