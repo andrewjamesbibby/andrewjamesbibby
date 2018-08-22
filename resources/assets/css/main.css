@@ -915,6 +915,8 @@ ul.social-links li:last-child a {
     top: -40px;
     border-radius: 40px;
     z-index: 1;
+    background-size: cover;
+    border: 2px solid #e5e5e5;
 }
 
 .tweet-picture img {

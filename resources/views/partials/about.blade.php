@@ -26,7 +26,6 @@
             <div class="tweets owl-carousel">
 
                 @foreach($tweets as $tweet)
-
                     <div class="tweet-item">
                         <div class="tweet-content">
                             <div class="tweet-text">
@@ -34,9 +33,11 @@
                             </div>
                         </div>
                         <div class="tweet-credits">
-                            {{--<div class="tweet-picture">--}}
-                                {{--<img src="#" alt="me">--}}
-                            {{--</div>--}}
+                            @if( isset($tweet['entities']['media'][0]['media_url']) )
+                                <a href="{{ $tweet['entities']['media'][0]['media_url'] }}" target="_blank">
+                                    <div class="tweet-picture" style="background-image: url('{{ $tweet['entities']['media'][0]['media_url'] }}')"></div>
+                                </a>
+                            @endif
                             <div class="tweet-author-info">
                                 <p class="tweet-author">{{ $tweet['user']['name'] }}</p>
                                 <p class="tweet-date">{{ Carbon\Carbon::parse($tweet['created_at'])->diffForHumans() }}</p>
