@@ -24,31 +24,61 @@
         <!-- Portfolio Grid -->
         <div id="portfolio_grid" class="portfolio-grid portfolio-masonry masonry-grid-3">
 
-            <!-- Portfolio Item 1 -->
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/pavilion">
-                    <img src="images/portfolio/pavilion.jpg" alt="">
+                    <img src="images/portfolio/pavilion.jpg" alt="pavilion">
                     <div>
                         <h5 class="name">Pavilion System</h5>
-                        <small>Media</small>
+                        <small>System</small>
                         <i class="fa fa-file-text-o"></i>
                     </div>
                 </a>
             </figure>
-            <!-- /Portfolio Item 1 -->
 
-            <!-- Portfolio Item 2 -->
+            <figure class="item" data-groups='["all", "projects"]'>
+                <a class="ajax-page-load" href="portfolio/sentinel">
+                    <img src="images/portfolio/sentinel.jpg" alt="sentinel">
+                    <div>
+                        <h5 class="name">Sentinel</h5>
+                        <small>System</small>
+                        <i class="fa fa-file-text-o"></i>
+                    </div>
+                </a>
+            </figure>
+
+            <figure class="item" data-groups='["all", "projects"]'>
+                <a class="ajax-page-load" href="portfolio/chinese">
+                    <img src="images/portfolio/chinese.jpg" alt="chinese">
+                    <div>
+                        <h5 class="name">My Chinese</h5>
+                        <small>Blog</small>
+                        <i class="fa fa-file-text-o"></i>
+                    </div>
+                </a>
+            </figure>
+
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/prosport">
-                    <img src="images/portfolio/prosport.jpg" alt="">
+                    <img src="images/portfolio/prosport.jpg" alt="prosport">
                     <div>
                         <h5 class="name">Prosport Coaching</h5>
-                        <small>Media</small>
+                        <small>Website</small>
                         <i class="fa fa-file-text-o"></i>
                     </div>
                 </a>
             </figure>
-            <!-- /Portfolio Item 2 -->
+
+            <figure class="item" data-groups='["all", "projects"]'>
+                <a class="ajax-page-load" href="portfolio/code">
+                    <img src="images/portfolio/code.jpg" alt="code">
+                    <div>
+                        <h5 class="name">Code</h5>
+                        <small>Blog</small>
+                        <i class="fa fa-file-text-o"></i>
+                    </div>
+                </a>
+            </figure>
+
 
         </div>
         <!-- /Portfolio Grid -->

@@ -33,11 +33,6 @@
                             </div>
                         </div>
                         <div class="tweet-credits">
-                            @if( isset($tweet['entities']['media'][0]['media_url']) )
-                                <a href="{{ $tweet['entities']['media'][0]['media_url'] }}" target="_blank">
-                                    <div class="tweet-picture" style="background-image: url('{{ $tweet['entities']['media'][0]['media_url'] }}')"></div>
-                                </a>
-                            @endif
                             <div class="tweet-author-info">
                                 <p class="tweet-author">{{ $tweet['user']['name'] }}</p>
                                 <p class="tweet-date">{{ Carbon\Carbon::parse($tweet['created_at'])->diffForHumans() }}</p>

@@ -5,6 +5,8 @@
 * Version: 2.1
 */
 
+window.disabled = false;
+
 var PageTransitions = (function ($) {
 "use strict";
 
@@ -69,11 +71,23 @@ var PageTransitions = (function ($) {
 
         // Adding click event to main menu link
         $('.pt-trigger').click(function() {
+
+            if(window.disabled) {
+                return false;
+            }
+
+            window.disabled = true;
+
             var pageTrigger = $(this);
             Animate(pageTrigger);
             $(menu+' li').removeClass('active');
             $(this.parentNode).addClass('active');
             $('.pt-wrapper').animate({scrollTop:0},300);
+
+            setTimeout(function(){
+                window.disabled = false;
+            }, 1000)
+
         });
 
         window.onhashchange = function(event) {
