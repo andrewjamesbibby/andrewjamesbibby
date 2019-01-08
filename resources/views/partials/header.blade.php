@@ -70,12 +70,6 @@
                     <li>
                         <a class="pt-trigger" href="#contact" data-animation="1" data-goto="4">Contact</a>
                     </li>
-                    <li class ="external">
-                        <a target="_blank" href="https://blog.andrewjamesbibby.com">Blog</a>
-                    </li>
-                    <li class ="external">
-                        <a target="_blank" href="https://chinese.andrewjamesbibby.com">Chinese</a>
-                    </li>
                 </ul>
                 <!-- /Main menu -->
 

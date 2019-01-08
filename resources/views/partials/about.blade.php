@@ -29,7 +29,7 @@
                     <div class="tweet-item">
                         <div class="tweet-content">
                             <div class="tweet-text">
-                                <p>{{ $tweet['text'] }} </p>
+                                <p>{!! \Twitter::linkify($tweet['text']) !!} </p>
                             </div>
                         </div>
                         <div class="tweet-credits">
