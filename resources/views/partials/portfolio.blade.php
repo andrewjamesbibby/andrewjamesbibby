@@ -24,6 +24,17 @@
         <!-- Portfolio Grid -->
         <div id="portfolio_grid" class="portfolio-grid portfolio-masonry masonry-grid-3">
 
+            <figure class="item" data-groups='["all", "demos"]'>
+                <a class="ajax-page-load" href="portfolio/pusher">
+                    <img src="images/portfolio/crypto.jpg" alt="pusher">
+                    <div>
+                        <h5 class="name">Live Crypto Dashboard</h5>
+                        <small>Demo</small>
+                        <i class="fa fa-file-text-o"></i>
+                    </div>
+                </a>
+            </figure>
+
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/pavilion">
                     <img src="images/portfolio/pavilion.jpg" alt="pavilion">

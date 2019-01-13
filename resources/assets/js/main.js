@@ -174,7 +174,7 @@
 
     // Animate page loader
     $(window).on('load', function() {
-        $(".preloader").fadeOut("slow");
+        $(".preloader").hide();
     });
 
     // Mobile menu hide
