@@ -90,6 +90,28 @@
                 </a>
             </figure>
 
+            <figure class="item" data-groups='["all", "projects"]'>
+                <a class="ajax-page-load" href="portfolio/ranch">
+                    <img src="images/portfolio/ranch.jpg" alt="ranch">
+                    <div>
+                        <h5 class="name">The Ranch</h5>
+                        <small>API Playground</small>
+                        <i class="fa fa-code"></i>
+                    </div>
+                </a>
+            </figure>
+
+            <figure class="item" data-groups='["all", "projects"]'>
+                <a class="ajax-page-load" href="portfolio/publisher">
+                    <img src="images/portfolio/publisher.jpg" alt="api">
+                    <div>
+                        <h5 class="name">Publisher API Library </h5>
+                        <small>API Wrapper</small>
+                        <i class="fa fa-code"></i>
+                    </div>
+                </a>
+            </figure>
+
 
         </div>
         <!-- /Portfolio Grid -->

@@ -15,7 +15,7 @@
             <div class="general-info">
                 <h3>I am a Developer @ <a href="https://www.yudu.com" target="_blank">YUDU</a></h3>
                 <p>Full-time developer working with a wide variety of web technologies to solve real world problems. I have gained many skills over the years in various positions at home and abroad. </p>
-                <p>Professional, decisive and determined with a continually improving skill set. I enjoy working in the challenging and ever-changing  environment of modern web technology. I enjoy running and the pursuit of self-mastery.</p>
+                <p>Professional, decisive and determined with a continually improving skill set. I enjoy working in the challenging and ever-changing  environment of modern web technology.</p>
             </div>
         </div>
 
@@ -69,7 +69,7 @@
                 <div class="service-info">
                     <img src="images/service/responsive.png" alt="Responsive Design">
                     <h4>Responsive Development</h4>
-                    <p>Projects which scale and flow across across all screen sizes and device types.</p>
+                    <p>Projects which scale and flow across all screen sizes and device types.</p>
                 </div>
             </div>
         </div>

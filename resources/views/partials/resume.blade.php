@@ -102,6 +102,11 @@
                     <div class="skill-percentage skill-9"></div>
                 </div>
 
+                <h4>Vue</h4>
+                <div class="skill-container">
+                    <div class="skill-percentage skill-8"></div>
+                </div>
+
             </div>
         </div>
     </div>
