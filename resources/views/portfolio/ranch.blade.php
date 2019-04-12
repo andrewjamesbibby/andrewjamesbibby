@@ -41,7 +41,7 @@
                 <ul class="project-general-info">
                     <li><p><i class="fa fa-calendar"></i> 2019</p></li>
                     <li><p><i class="fa fa-globe"></i> <a href="https://ranch.andrewjamesbibby.com" target="_blank">ranch.andrewjamesbibby.com</a></p></li>
-                    <li><p><i class="fa fa-git-square"></i> <a href="github.com/andrewjamesbibby/the-ranch" target="_blank">https://github.com/andrewjamesbibby/the-ranch</a></p></li>
+                    <li><p><i class="fa fa-git-square"></i> <a href="https://github.com/andrewjamesbibby/the-ranch" target="_blank">https://github.com/andrewjamesbibby/the-ranch</a></p></li>
                 </ul>
 
                 <ul class="project-general-info">
