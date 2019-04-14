@@ -7,14 +7,14 @@
         </div>
 
         <div class="portfolio-title">
-            <h1>The Ranch</h1>
+            <h1>Valley Plumbing</h1>
         </div>
 
         <div class="row">
             <div class="col-sm-7 col-md-7 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="images/portfolio/portfolio_details/ranch/1.jpg" alt="ranch-1">
+                        <img src="images/portfolio/portfolio_details/valley/1.jpg" alt="valley-1">
                     </div>
                 </div>
 
@@ -39,16 +39,13 @@
                     <h3>Description</h3>
                 </div>
                 <ul class="project-general-info">
-                    <li><p><i class="fa fa-calendar"></i> 2019</p></li>
-                    <li><p><i class="fa fa-globe"></i> <a href="https://ranch.andrewjamesbibby.com" target="_blank">ranch.andrewjamesbibby.com</a></p></li>
-                    <li><p><i class="fa fa-git-square"></i> <a href="https://github.com/andrewjamesbibby/the-ranch" target="_blank">https://github.com/andrewjamesbibby/the-ranch</a></p></li>
+                    <li><p><i class="fa fa-calendar"></i> 2015</p></li>
+                    <li><p><i class="fa fa-globe"></i> <a href="http://valleyplumbing.co.uk" target="_blank">valleyplumbing.co.uk</a></p></li>
                 </ul>
 
                 <ul class="project-general-info">
-                    <li><p>Make requests to YUDU Publisher API without writing code</p></li>
-                    <li><p>Displays requests and response information</p></li>
-                    <li><p>Single Page Application built with Vue</p></li>
-                    <li><p>Responsive to different devices sizes</p></li>
+                    <li><p>Simple static website for local business</p></li>
+                    <li><p>Implements jquery plugins (slider, validation etc)</p></li>
                 </ul>
                 <!-- /Project Description -->
 
@@ -58,10 +55,9 @@
                         <h3>Technology</h3>
                     </div>
                     <ul class="tags">
-                        <li><a>Vue</a></li>
-                        <li><a>Vuex</a></li>
-                        <li><a>Bulma</a></li>
-                        <li><a>Laravel</a></li>
+                        <li><a>HTML5</a></li>
+                        <li><a>CSS</a></li>
+                        <li><a>Jquery</a></li>
                     </ul>
                 </div>
                 <!-- /Technology -->

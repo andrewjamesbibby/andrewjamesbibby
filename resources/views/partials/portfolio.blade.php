@@ -112,6 +112,17 @@
                 </a>
             </figure>
 
+            <figure class="item" data-groups='["all", "demos"]'>
+                <a class="ajax-page-load" href="portfolio/valley">
+                    <img src="images/portfolio/valley.jpg" alt="valley">
+                    <div>
+                        <h5 class="name">Valley Plumbing</h5>
+                        <small>Static Site</small>
+                        <i class="fa fa-globe"></i>
+                    </div>
+                </a>
+            </figure>
+
 
         </div>
         <!-- /Portfolio Grid -->
