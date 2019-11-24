@@ -24,6 +24,17 @@
         <!-- Portfolio Grid -->
         <div id="portfolio_grid" class="portfolio-grid portfolio-masonry masonry-grid-3">
 
+            <figure class="item" data-groups='["all", "projects"]'>
+                <a class="ajax-page-load" href="portfolio/dusk">
+                    <img src="images/portfolio/dusk-failures.jpg" alt="pusher">
+                    <div>
+                        <h5 class="name">Dusk Failures</h5>
+                        <small>Laravel Package</small>
+                        <i class="fa fa-code"></i>
+                    </div>
+                </a>
+            </figure>
+
             <figure class="item" data-groups='["all", "demos"]'>
                 <a class="ajax-page-load" href="portfolio/pusher">
                     <img src="images/portfolio/crypto.jpg" alt="pusher">

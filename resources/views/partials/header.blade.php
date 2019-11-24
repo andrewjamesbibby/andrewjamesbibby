@@ -10,7 +10,7 @@
     <meta name="author" content="ajb"/>
 
     <link rel="shortcut icon" href="favicon.ico">
-    <link href="{{ mix('css/app.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ asset(mix('css/app.css')) }}" rel="stylesheet" type="text/css" />
 </head>
 
 <body>

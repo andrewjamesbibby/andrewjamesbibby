@@ -10,7 +10,7 @@
 </div>
 <!-- /Page -->
 
-<script src="{{ mix('js/app.js') }}" type="text/javascript"></script>
+<script src="{{ asset(mix('js/app.js')) }}" type="text/javascript"></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
 
 </body>
