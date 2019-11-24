@@ -69,12 +69,12 @@
             </figure>
 
             <figure class="item" data-groups='["all", "projects"]'>
-                <a class="ajax-page-load" href="portfolio/chinese">
-                    <img src="images/portfolio/chinese.jpg" alt="chinese">
+                <a class="ajax-page-load" href="portfolio/hotline">
+                    <img src="images/portfolio/hotline.jpg" alt="hotline">
                     <div>
-                        <h5 class="name">My Chinese</h5>
-                        <small>Blog</small>
-                        <i class="fa fa-file-text-o"></i>
+                        <h5 class="name">Sentinel Hotline</h5>
+                        <small>Website</small>
+                        <i class="fa fa-code"></i>
                     </div>
                 </a>
             </figure>

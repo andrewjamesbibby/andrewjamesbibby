@@ -7,30 +7,14 @@
         </div>
 
         <div class="portfolio-title">
-            <h1>Valley Plumbing</h1>
+            <h1> Sentinel Hotline </h1>
         </div>
 
         <div class="row">
             <div class="col-sm-7 col-md-7 portfolio-block">
-                <div class="owl-carousel portfolio-page-carousel">
-                    <div class="item">
-                        <img src="images/portfolio/portfolio_details/valley/1.jpg" alt="valley-1">
-                    </div>
+                <div class="portfolio-page-video embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/351591390?autoplay=0"></iframe>
                 </div>
-
-                <script type="text/javascript">
-                    jQuery(document).ready(function($){
-                        $('.portfolio-page-carousel').owlCarousel({
-                            smartSpeed:1200,
-                            items: 1,
-                            loop: true,
-                            dots: true,
-                            nav: true,
-                            navText: true,
-                            margin: 10
-                        });
-                    });
-                </script>
             </div>
 
             <div class="col-sm-5 col-md-5 portfolio-block">
@@ -39,13 +23,18 @@
                     <h3>Description</h3>
                 </div>
                 <ul class="project-general-info">
-                    <li><p><i class="fa fa-calendar"></i> 2015</p></li>
-                    <li><p><i class="fa fa-globe"></i> <a href="https://valley.andrewjamesbibby.com" target="_blank">valleyplumbing.co.uk</a></p></li>
+                    <li><p><i class="fa fa-calendar"></i> 2019 - present</p></li>
+                    <li><p><i class="fa fa-globe"></i> <a href="https://www.yudu.com/sentinel/hotline" target="_blank">https://www.yudu.com/sentinel/hotline</a></p></li>
                 </ul>
 
+                <p class="text-justify">Crisis Hotline Service</p>
+
                 <ul class="project-general-info">
-                    <li><p>Simple static website for local business</p></li>
-                    <li><p>Implements jquery plugins (slider, validation etc)</p></li>
+                    <li><p>Online Crisis Hotlien Service</p></li>
+                    <li><p>Mutli Factor Authentication</p></li>
+                    <li><p>Unit Tested</p></li>
+                    <li><p>Twilio Integration</p></li>
+                    <li><p>Stripe Payment Integration</p></li>
                 </ul>
                 <!-- /Project Description -->
 
@@ -56,8 +45,13 @@
                     </div>
                     <ul class="tags">
                         <li><a>HTML5</a></li>
-                        <li><a>CSS</a></li>
-                        <li><a>Jquery</a></li>
+                        <li><a>CSS3</a></li>
+                        <li><a>Vue JS</a></li>
+                        <li><a>PHP</a></li>
+                        <li><a>Laravel</a></li>
+                        <li><a>Vue Bootstrap</a></li>
+                        <li><a>Stripe</a></li>
+                        <li><a>Twilio</a></li>
                     </ul>
                 </div>
                 <!-- /Technology -->
