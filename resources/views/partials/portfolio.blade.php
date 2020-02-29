@@ -25,8 +25,19 @@
         <div id="portfolio_grid" class="portfolio-grid portfolio-masonry masonry-grid-3">
 
             <figure class="item" data-groups='["all", "projects"]'>
+                <a class="ajax-page-load" href="portfolio/permissions">
+                    <img src="images/portfolio/permissions.jpg" alt="permissions">
+                    <div>
+                        <h5 class="name">Permissions Calculator</h5>
+                        <small>Web Tool</small>
+                        <i class="fa fa-calculator"></i>
+                    </div>
+                </a>
+            </figure>
+
+            <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/dusk">
-                    <img src="images/portfolio/dusk-failures.jpg" alt="pusher">
+                    <img src="images/portfolio/dusk-failures.jpg" alt="dusk-failures">
                     <div>
                         <h5 class="name">Dusk Failures</h5>
                         <small>Laravel Package</small>
