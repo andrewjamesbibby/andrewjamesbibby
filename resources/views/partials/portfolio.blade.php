@@ -25,6 +25,17 @@
         <div id="portfolio_grid" class="portfolio-grid portfolio-masonry masonry-grid-3">
 
             <figure class="item" data-groups='["all", "projects"]'>
+                <a class="ajax-page-load" href="portfolio/forgery">
+                    <img src="images/portfolio/forgery.jpg" alt="forgery">
+                    <div>
+                        <h5 class="name">Forgery</h5>
+                        <small>CLI</small>
+                        <i class="fa fa-code"></i>
+                    </div>
+                </a>
+            </figure>
+
+            <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/permissions">
                     <img src="images/portfolio/permissions.jpg" alt="permissions">
                     <div>
