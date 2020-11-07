@@ -156,6 +156,16 @@
                 </a>
             </figure>
 
+            <figure class="item" data-groups='["all", "projects"]'>
+                <a class="ajax-page-load" href="portfolio/code">
+                    <img src="images/portfolio/code.jpg" alt="code">
+                    <div>
+                        <h5 class="name">Code</h5>
+                        <small>CLI</small>
+                        <i class="fa fa-code"></i>
+                    </div>
+                </a>
+            </figure>
 
         </div>
         <!-- /Portfolio Grid -->
