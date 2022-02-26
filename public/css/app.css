@@ -15449,7 +15449,7 @@ img.mfp-img {
 
 1. Fonts
 2. General styles (Buttons, Inputs, Typography)
-3. Page loadig animation
+3. Page loading animation
 4. Subpages changer
 5. Site header (sidebar)
 6. Site content
@@ -16380,6 +16380,14 @@ ul.social-links li:last-child a {
     text-transform: uppercase;
     font-style: italic;
     font-weight: lighter
+}
+
+.site-certifications-block {
+    display: inline-flex;
+}
+
+.site-certifications-block img{
+    flex-basis: 1;
 }
 
 /* /Tweet */
@@ -17367,10 +17375,6 @@ blockquote {
 
     .site-avatar-block {
         width: 50%
-    }
-
-    .site-certifications-block {
-        display: inline-flex;
     }
 
     .subpage-block {

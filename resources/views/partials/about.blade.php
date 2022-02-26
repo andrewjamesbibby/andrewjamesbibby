@@ -48,6 +48,42 @@
         </div>
     </div>
 
+    <!-- Certifications block -->
+    <div class="block-title">
+        <h3>Professional Certifications</h3>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-6 col-md-3 subpage-block">
+            <div class="service-block">
+                <div class="service-info">
+                    <img src="images/certs/aws-developer.png" alt="aws developer">
+                    <h4>AWS Developer Associate</h4>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3 subpage-block">
+            <div class="service-block">
+                <div class="service-info">
+                    <img src="images/certs/aws-solutions-architect.png" alt="aws solutions architect">
+                    <h4>AWS Solutions Architect Associate</h4>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3 subpage-block">
+            <div class="service-block">
+                <div class="service-info">
+                    <img src="images/certs/laravel-certified.png" alt="laravel certified">
+                    <h4>Laravel Certified Developer</h4>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- End of Certifications block -->
+
     <!-- Services block -->
     <div class="block-title">
         <h3>Services</h3>
