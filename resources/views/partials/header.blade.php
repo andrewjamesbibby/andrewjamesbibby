@@ -38,6 +38,15 @@
             <p class="site-description">Web Developer</p>
         </div>
 
+        <div class="site-avatar-block">
+            <img src="/images/avatar.png" alt="avatar">
+        </div>
+
+        <div class="site-certifications-block">
+            <img src="/images/certs/aws-developer.png" alt="aws-developer">
+            <img src="/images/certs/aws-solutions-architect.png" alt="aws-developer">
+        </div>
+
         <a class="menu-toggle mobile-visible">
             <i class="fa fa-bars"></i>
         </a>
