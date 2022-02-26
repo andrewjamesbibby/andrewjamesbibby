@@ -39,8 +39,8 @@
                 <!-- Single event -->
                 <div class="timeline-event te-primary">
                     <h5 class="event-date">2014 - Current</h5>
-                    <h4 class="event-name">Web Developer</h4>
-                    <span class="event-description">YUDU</span>
+                    <h4 class="event-name">Lead Developer</h4>
+                    <span class="event-description">YUDU Sentinel</span>
                 </div>
                 <!-- Single event -->
                 <div class="timeline-event te-primary">
@@ -64,12 +64,12 @@
             <div class="skills-info">
                 <h4>HML5 / CSS3 / JS</h4>
                 <div class="skill-container">
-                    <div class="skill-percentage skill-9"></div>
+                    <div class="skill-percentage skill-10"></div>
                 </div>
 
                 <h4>Hosting, domains & deployment</h4>
                 <div class="skill-container">
-                    <div class="skill-percentage skill-8"></div>
+                    <div class="skill-percentage skill-10"></div>
                 </div>
 
                 <h4>Database Management</h4>
@@ -79,10 +79,10 @@
 
                 <h4>Laravel Framework</h4>
                 <div class="skill-container">
-                    <div class="skill-percentage skill-9"></div>
+                    <div class="skill-percentage skill-10"></div>
                 </div>
 
-                <h4>Wordpress</h4>
+                <h4>Cloud Technology</h4>
                 <div class="skill-container">
                     <div class="skill-percentage skill-8"></div>
                 </div>

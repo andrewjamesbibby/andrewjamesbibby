@@ -132,18 +132,6 @@
                 </a>
             </figure>
 
-            {{--  Blog --}}
-            <figure class="item" data-groups='["all", "projects"]'>
-                <a class="ajax-page-load" href="portfolio/code">
-                    <img src="images/portfolio/code.jpg" alt="code">
-                    <div>
-                        <h5 class="name">Code</h5>
-                        <small>Blog</small>
-                        <i class="fa fa-file-text-o"></i>
-                    </div>
-                </a>
-            </figure>
-
             {{--  Ranch --}}
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/ranch">
