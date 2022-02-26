@@ -88,7 +88,7 @@
                     <li><a class="tip social-button" href="https://www.linkedin.com/in/andrew-james-bibby-464a0627/" title="Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                     <li><a class="tip social-button" href="https://www.facebook.com/andrewjamesbibby" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
                     <li><a class="tip social-button" href="https://github.com/andrewjamesbibby" title="Github" target="_blank"><i class="fa fa-github"></i></a></li>
-
+                    <li><a class="tip social-button" href="https://stackoverflow.com/users/1968209/andrew-bibby" title="Github" target="_blank"><i class="fa fa-stack-overflow"></i></a></li>
                 </ul>
                 <!-- /Social buttons -->
 
