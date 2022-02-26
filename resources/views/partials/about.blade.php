@@ -14,8 +14,8 @@
         <div class="col-sm-6 col-md-6 subpage-block">
             <div class="general-info">
                 <h3>I am a Developer @ <a href="https://www.yudu.com" target="_blank">YUDU</a></h3>
-                <p>Full-time developer working with a wide variety of web technologies to solve real world problems. I have gained many skills over the years in various positions at home and abroad. </p>
-                <p>Professional, decisive and determined with a continually improving skill set. I enjoy working in the challenging and ever-changing  environment of modern web technology.</p>
+                <p>I work with a wide variety of web and cloud technologies to solve real world problems. I have gained many skills over the years in various positions at home and abroad. </p>
+                <p>I am lead developer of <a href="https://www.yudu.com/sentinel" target="_blank">YUDU Sentinel</a>.</p>
             </div>
         </div>
 
