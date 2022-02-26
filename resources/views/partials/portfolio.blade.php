@@ -24,6 +24,19 @@
         <!-- Portfolio Grid -->
         <div id="portfolio_grid" class="portfolio-grid portfolio-masonry masonry-grid-3">
 
+            {{--  Prosport Booking Portal --}}
+            <figure class="item" data-groups='["all", "projects"]'>
+                <a class="ajax-page-load" href="portfolio/prosport-bookings">
+                    <img src="images/portfolio/prosport.jpg" alt="prosport-bookings">
+                    <div>
+                        <h5 class="name">Prosport Booking Portal</h5>
+                        <small>eCommerce</small>
+                        <i class="fa fa-file-text-o"></i>
+                    </div>
+                </a>
+            </figure>
+
+            {{--  Forgery --}}
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/forgery">
                     <img src="images/portfolio/forgery.jpg" alt="forgery">
@@ -35,6 +48,7 @@
                 </a>
             </figure>
 
+            {{--  Permissions Calculator --}}
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/permissions">
                     <img src="images/portfolio/permissions.jpg" alt="permissions">
@@ -46,6 +60,7 @@
                 </a>
             </figure>
 
+            {{-- Dusk Failures --}}
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/dusk">
                     <img src="images/portfolio/dusk-failures.jpg" alt="dusk-failures">
@@ -57,6 +72,7 @@
                 </a>
             </figure>
 
+            {{--  Pusher --}}
             <figure class="item" data-groups='["all", "demos"]'>
                 <a class="ajax-page-load" href="portfolio/pusher">
                     <img src="images/portfolio/crypto.jpg" alt="pusher">
@@ -68,6 +84,7 @@
                 </a>
             </figure>
 
+            {{--  Pavilion System --}}
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/pavilion">
                     <img src="images/portfolio/pavilion.jpg" alt="pavilion">
@@ -79,6 +96,7 @@
                 </a>
             </figure>
 
+            {{--  Sentinel --}}
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/sentinel">
                     <img src="images/portfolio/sentinel.jpg" alt="sentinel">
@@ -90,6 +108,7 @@
                 </a>
             </figure>
 
+            {{--  Hotline --}}
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/hotline">
                     <img src="images/portfolio/hotline.jpg" alt="hotline">
@@ -101,6 +120,7 @@
                 </a>
             </figure>
 
+            {{--  Prosport Site --}}
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/prosport">
                     <img src="images/portfolio/prosport.jpg" alt="prosport">
@@ -112,6 +132,7 @@
                 </a>
             </figure>
 
+            {{--  Blog --}}
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/code">
                     <img src="images/portfolio/code.jpg" alt="code">
@@ -123,6 +144,7 @@
                 </a>
             </figure>
 
+            {{--  Ranch --}}
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/ranch">
                     <img src="images/portfolio/ranch.jpg" alt="ranch">
@@ -134,6 +156,7 @@
                 </a>
             </figure>
 
+            {{--  Publisher API Wrapper --}}
             <figure class="item" data-groups='["all", "projects"]'>
                 <a class="ajax-page-load" href="portfolio/publisher">
                     <img src="images/portfolio/publisher.jpg" alt="api">
@@ -145,6 +168,7 @@
                 </a>
             </figure>
 
+            {{--  Valley --}}
             <figure class="item" data-groups='["all", "demos"]'>
                 <a class="ajax-page-load" href="portfolio/valley">
                     <img src="images/portfolio/valley.jpg" alt="valley">
