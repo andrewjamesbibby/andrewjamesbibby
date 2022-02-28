@@ -16,7 +16,7 @@
                 <h3>I am a Developer @ <a href="https://www.yudu.com" target="_blank">YUDU</a></h3>
                 <p>I work with a wide variety of web and cloud technologies to solve real world problems. I have gained many skills over the years in various positions at home and abroad. </p>
                 <p>I am the lead developer of <a href="https://www.yudu.com/sentinel" target="_blank">YUDU Sentinel</a>.</p>
-                <p>I am active at Laracasts as @squibby <a href="https://laracasts.com/@squibby" target="_blank">here</a></p>
+                <p>I am active at Laracasts as <a href="https://laracasts.com/@squibby" target="_blank">@squibby</a></p>
             </div>
         </div>
 
