@@ -2,5 +2,6 @@
 @include('partials.about')
 @include('partials.resume')
 @include('partials.portfolio')
+@include('partials.blog')
 @include('partials.contact')
 @include('partials.footer')

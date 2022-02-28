@@ -77,7 +77,10 @@
                         <a class="pt-trigger" href="#portfolio" data-animation="1" data-goto="3">Portfolio</a>
                     </li>
                     <li>
-                        <a class="pt-trigger" href="#contact" data-animation="1" data-goto="4">Contact</a>
+                        <a class="pt-trigger" href="#blog" data-animation="1" data-goto="4">Blog</a>
+                    </li>
+                    <li>
+                        <a class="pt-trigger" href="#contact" data-animation="1" data-goto="5">Contact</a>
                     </li>
                 </ul>
                 <!-- /Main menu -->

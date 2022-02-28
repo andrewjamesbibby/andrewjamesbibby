@@ -1,5 +1,5 @@
 <!-- Contact Subpage -->
-<section class="pt-page pt-page-4" data-id="contact">
+<section class="pt-page pt-page-5" data-id="contact">
     <div class="section-title-block">
         <h2 class="section-title">Contact</h2>
     </div>
