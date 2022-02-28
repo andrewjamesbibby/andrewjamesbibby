@@ -11,7 +11,7 @@ class HomeController extends Controller
     public function index(){
 
         // Grab latest tweets / cache for 30 minutes
-        $tweets = Cache::remember('users',30, function () {
+        $tweets = Cache::remember('users', 1800, function () {
             return  Twitter::getUserTimeline(['count' => 10, 'format' => 'array']);
         });
 
