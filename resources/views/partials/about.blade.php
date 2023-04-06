@@ -58,6 +58,15 @@
         <div class="col-sm-6 col-md-3 subpage-block">
             <div class="service-block">
                 <div class="service-info">
+                    <img src="images/certs/aws-devops-pro.png" alt="aws devops">
+                    <h4>AWS Devops Professional</h4>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3 subpage-block">
+            <div class="service-block">
+                <div class="service-info">
                     <img src="images/certs/aws-developer.png" alt="aws developer">
                     <h4>AWS Developer Associate</h4>
                 </div>
